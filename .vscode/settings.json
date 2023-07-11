@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "CH395CMD.C": "cpp",
+        "CH395SPI.C": "cpp",
+        "CH395SPI_SW.C": "cpp",
+        "CH395PARA_SW.C": "cpp",
+        "CH395UART.C": "cpp",
+        "atk_mo395q_cmd.h": "c"
+    }
+}
